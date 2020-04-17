@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+margin: auto;
+    width: 850px;
+    height: 400px;
+    position: relative;
+    top: 40px;
+    background-color: lightskyblue;
+    border: 2px solid black;
+}
+
+
+nav {
+    height: 50px;
+    border: 1px dotted red;
+    position: relative;
+    top: 150px;
+    background-color: mintcream;
+}
+
+.profile-photo {
+    position: relative;
+    top: 260px;
+    left: 10px;
+    /*border-radius: 50%;*/
+    height: 30%;
+    width: 20%;
+    border-image-repeat: none;
+    background-color: lime;
+    border: maroon 2px dotted;
+}
+
+.Below-The-Header {
+position: relative;
+    border: 3px dotted black;
+    top: 60px;
+    margin: auto;
+    width: 850px;
+    height: 500px;
+}
+
+.Left-bucket-shit{
+    width: 45%;
+    height: 90%;
+    background-color: orchid;
+}
+.About-Page-Name{
+    width: 100%;
+    height: 20%;
+    border: 1px dashed black;
+}
+.About-Address{
+    width: 100%;
+    height: 20%;
+    border: 1px dashed black;
+}
+
+.About-Apps{
+    width: 100%;
+    height: 20%;
+    border: 1px dashed black;
+}
+.About-Photos{
+    width: 100%;
+    height: 20%;
+    border: 1px dashed black;
+}
+
+/* Style the stuff on the right */
+.Right-bucket-shit {
+    position: relative;
+    top: -444.6px;
+    float: right;
+    width: 45%;
+    height: 90%;
+    background-color: purple;
+}
+.Right-bucket-shit h3{
+    width: auto;
+}
+.Your-Name-Photo {
+    width: 100%;
+    height: 20%;
+    border: 1px dashed black;
+}
+.Your-Name-Statement{
+    width: 100%;
+    height: 20%;
+    border: 1px dashed black;
+}
+
+.Your-Name-Events{
+    width: 100%;
+    height: 20%;
+    border: 1px dashed black;
+}
+.Your-Name-Extra{
+    width: 100%;
+    height: 20%;
+    border: 1px dashed black;
+}
